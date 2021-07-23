@@ -6,4 +6,8 @@ Requires [archiso](https://github.com/archlinux/archiso) and `erofs-utils` to bu
 
 ## Building the ISO
 
-`./build.sh`, then run `./install.sh <device file>`.
+`./build.sh`, then `./install.sh <device file>`.
+
+## License
+
+Ranger is licensed under the terms of the **GPL-3.0-or-later** (see [LICENSE](LICENSE)), inherited from [archiso's license](https://github.com/archlinux/archiso/blob/master/LICENSE).
